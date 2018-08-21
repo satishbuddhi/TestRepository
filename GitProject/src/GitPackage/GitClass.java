@@ -8,5 +8,5 @@ public static void main(String[] args) {
 	System.out.println("second upload to remote from local repo");
 	System.out.println("third upload to remote from local repo");
 	System.out.println("fourth upload to remote from remote repo");
-	
+}
 }
